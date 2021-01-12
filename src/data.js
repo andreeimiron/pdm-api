@@ -1,0 +1,43 @@
+module.exports = [{
+    "manufacturer": "Samsung",
+    "model": "50TUS7878",
+    "fabricationDate": "10-15-2019",
+    "price": 299,
+    "isSmart": false,
+}, {
+    "manufacturer": "Philips",
+    "model": "50PHL5050",
+    "fabricationDate": "05-07-2019",
+    "price": 449,
+    "isSmart": true,
+}, {
+    "manufacturer": "Samsung",
+    "model": "48TUS8080",
+    "fabricationDate": "07-18-2019",
+    "price": 349,
+    "isSmart": true,
+}, {
+    "manufacturer": "LG",
+    "model": "45LGT85980",
+    "fabricationDate": "12-12-2019",
+    "price": 279,
+    "isSmart": false,
+}, {
+    "manufacturer": "SAMSUNG",
+    "model": "48SMG85980",
+    "fabricationDate": "12-12-2019",
+    "price": 269,
+    "isSmart": false,
+}, {
+    "manufacturer": "PHILIPS",
+    "model": "45PHL85980",
+    "fabricationDate": "12-12-2019",
+    "price": 399,
+    "isSmart": true,
+}, {
+    "manufacturer": "LG",
+    "model": "42LGT80980",
+    "fabricationDate": "09-12-2019",
+    "price": 239,
+    "isSmart": false,
+}];
